@@ -66,7 +66,7 @@ The dataset contains transactional sales data, including:
 ---
 
 ## 📷 Dashboard Preview
-![Coffee Shop Sales Dashboard](Coffee Shop Sales Dashboard.png)
+![Coffee Shop Sales Dashboard](Coffee-Shop-Sales-Dashboard.png)
 
 ---
 
